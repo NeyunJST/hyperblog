@@ -53,3 +53,9 @@ section article{
 #clear {
     clear: both;
 }
+
+footer{
+
+    background-color: black;
+    color: white;    
+}
