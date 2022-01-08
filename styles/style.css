@@ -31,3 +31,14 @@ nav li {
     font-size: 20px;
     padding: 20px;
   }
+
+section article{
+    text-align: center;
+  }
+
+.first {
+    width: 50%;
+    float: left;
+    height: 300px;
+    background-color: aqua;
+}
